@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A way how to supply the King's occasions with two millions of money on a fond of 120000 l. yearly, which is at 6 only per cent. without any prejudice to His Majesty's present revenue, or compulsion to those that shall receive it, but rather a convenience to both. To do this, 'tis proposed, ...</title>
+            <author>Neale, Thomas, d. 1699?</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27174</idno><idno type="EEBO-CITATION">99830800</idno>
+  <idno type="VID">207388</idno>
+  <idno type="EEBO-PROQUEST">2240889564</idno>
+  
+            <idno type="STC">Wing N355</idno>
+            <idno type="PROQUEST">99830800</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99830800e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207388)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2093:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A way how to supply the King's occasions with two millions of money on a fond of 120000 l. yearly, which is at 6 only per cent. without any prejudice to His Majesty's present revenue, or compulsion to those that shall receive it, but rather a convenience to both. To do this, 'tis proposed, ...</title>
+                  <author>Neale, Thomas, d. 1699?</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.]],</publisher>
+                  <pubPlace>[[London :</pubPlace>
+                  <date>Reprinted Feb. 6th, 1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Tho. Neale.</note>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Imprint date from colophon; place of publication from Wing.</note>
+                  <note>Illustrated with an engraved example of the proposed bill.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Money --  England --  History --  Early works to 1800.</term>
+               <term type="topical_term">Money supply --  England --  Early works to 1800.</term>
+               <term type="topical_term">Counterfeits and counterfeiting --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:207388:1"/>
+            <head>A Way how to Supply the King's Occasions with Two Millions of Money, on a Fond of <hi>120000</hi> l. Yearly, which is at <hi>6</hi> only <hi>per Cent.</hi> without any Prejudice to His Majesty's Present Revenue, or Compulsion to those that shall Receive it, but rather a Convenience to both. To do this, 'Tis Proposed,</head>
+            <p>THat there should be Bills, some of 100 <hi>l.</hi> some of 50 <hi>l.</hi> and some of 20 <hi>l.</hi> (as herein after Described) be prepared, amounting sup<g ref="char:EOLhyphen"/>pose to Two Millions, and to be paid out by the King as so much ready Money, to those his Majesty has occasion to pay Money to, and are willing this way to receive it, with a Declaration (as you see the Pattern made for 'em) that they shall be taken in payment, for ei<g ref="char:EOLhyphen"/>ther Excise or Custom, for the Money they are given out at, and the 6 <hi>per Cent.</hi> Interest, <hi>per An.</hi> shall be paid to the Persons possest of such Bills at <hi>Lady day,</hi> and <hi>Michaelmas</hi> yearly, and the King as he pays them out, as 100, 50, or 20 <hi>l.</hi> shall take them again as 100, 50, or 20 <hi>l.</hi> In short, as the King pays out Silver and Gold, and takes it again for just the same as he paid it out; so, and no otherwise he should take again these Bills <hi>(viz.)</hi> as 100 <hi>l.</hi> 50 <hi>l.</hi> or 20 <hi>l.</hi> as he paid them out.</p>
+            <p>Whence 'twill follow, that whoever comes to be possest of these Bills (having a running Interest of 6 <hi>per Cent.</hi> on them) will never pay them into the <hi>Exchequer,</hi> either for Custom or Excise, if he can possibly find other Money to pay it.</p>
+            <p>And to hinder the remaining long of such Bills in the <hi>Exchequer,</hi> it may be Enacted, That (if payment of any of these Bills be made, as 20 <hi>l.</hi> 50 <hi>l.</hi> or 100 <hi>l.</hi> for Custom or Excise) there shall every Week be set up in Writing at the <hi>Exchequer, Excise</hi> and <hi>Custom-house,</hi> an Account of what sums in such Bills remain there, with this Declaration Positive; That whilst there are any such Bills remaining in the <hi>Exchequer, Excise,</hi> or <hi>Custom-house,</hi> whoever brings ready Money, that is, 100 <hi>l.</hi> for 100 <hi>l.</hi> 50 <hi>l.</hi> for a 50 <hi>l.</hi> or 20 <hi>l.</hi> for a 20 <hi>l.</hi> Bill shall not be refused it, tho 5 Months Interest be due upon't, and the whole six to be received by the Possessor of the Bill, the <hi>Lady-day</hi> or <hi>Michaelmas</hi> following: This will make these Bills 'twixt Man and Man much better than ready Money, having such Interest, till paid for Excise or Custom, still running upon them, and when paid into the <hi>Exchequer</hi> so very advantagious to those that shall take them out, that the King's Revenue in payment will have very few of them; And being so Drawn that they cannot be Counter<g ref="char:EOLhyphen"/>feit, and may be proved true at the <hi>Custom house</hi> if paid there, at the <hi>Excise</hi> Office if paid there, at the <hi>Custom-house</hi> at <hi>Bristol,</hi> and the other Places writ on them if paid there, and at the <hi>Exchequer</hi> when the Interest is paid, and a new Bill given there; as also for ascertaining the truth of such Bills, an Office like that of the <hi>Transfer</hi> may be Erected in <hi>London.</hi> For a Penny to Try and Assert the Validity of any such Bill, which being so easie Ascertained, and having 6 <hi>per Cent.</hi> Interest (which is double what the Bank-Bills have) running upon 'em, and being no less in truth than a perpetual Interest of 6 <hi>per Cent.</hi> to those that
+<pb facs="tcp:207388:2"/> shall keep these Bills, and ready Money to Merchants when the Owners will part with them, and there being so sure and easie a way to do it, 'tis more likely by much, that these Bills will be always worth more then their Principal, then that they'll ever be valued at less; and it ought to be likewise considered, That the present (as well as the future) owners of Money, who at any time shall have these Bills, and who (it may be) would otherwise have put the same Money in Bank, will have this way 6 <hi>per Cent.</hi> for their Money, and their Money at command, as aforesaid; whereas they can have for it but Three <hi>per Cent.</hi> from the Bank, which for holding Stakes only does eat up the other Three, and yet the Securi<g ref="char:EOLhyphen"/>ty (if a new Fond be for it by Parliament settled) will be in goodness the same as that given the Bank, and may be appropriated and made re<g ref="char:EOLhyphen"/>deemable also as well; and therefore 'tis not to be doubted, but that this (without hoarding coyn'd Bullion either Silver or Gold, and so ma<g ref="char:EOLhyphen"/>king it scarce, or causing a Clamour in any kind whatsoever) may to more satisfaction supply the uses of Money, than either Bank Bills do, or Goldsmiths Notes ever did, being less charge to the Nation, and more for the Benefit of the present and future owners of Money, a Prejudice to none, but a great Convenience to many, and a Publick Good, by en<g ref="char:EOLhyphen"/>creasing the Currant Money of the Nation, which these Bills without any Compulsion, must of course and necessity do, and may be made for greater or lesser sums, as Fonds shall be settled for it, and the Wisdom of the House shall think fit of, and if instead of 120000<hi>l.</hi> yearly, 140000<hi>l.</hi> yearly be settled, 'twill raise either more Money, or the Two Millions proposed with more ease.</p>
+            <p>
+               <hi>Note,</hi> A Perpetual Interest, in the Nature of this, but by way of Transfer, as in <hi>Holland</hi> in used; was Proposed in Print by the Propo<g ref="char:EOLhyphen"/>ser of this, <hi>Jan.</hi> 29th, 1693. This Proposal was Printed <hi>Nov.</hi> 16th, 1694. Reprinted <hi>Decemb.</hi> 28th. 1694. and now again the 6th of <hi>Feb.</hi> 1695. and 'tis hoped 'twill need be so no more.</p>
+            <p>
+               <hi>Note,</hi> If what is above shall not be thought Precaution enough against Counterfeits, whosoever parts with any of these Bills, may be obliged (if he that takes them desires it) to Endorse the same, which alone would be almost sufficient to do it.</p>
+            <p>And if it might be Enacted, That the first 200000 <hi>l.</hi> that shall be raised on the Fond for this perpetual Interest to be settled should be appropria<g ref="char:EOLhyphen"/>ted, and in the <hi>Exchequer</hi> kept separate to Circulate these Bills, by pay<g ref="char:EOLhyphen"/>ing the Owners off so many of them in Money, as after Three Months shall desire to in Money be paid, allowing to such as shall so desire to be paid 3 <hi>per Cent.</hi> only; whereas Six <hi>per Cent.</hi> is allowed to the other: 200000 <hi>l.</hi> so set aside for such purpose (supported by the Credit of such Bills as shall come to be paid, which may so be made use of as to keep up at all times the Cash for such use to that sum) will more than sufficient<g ref="char:EOLhyphen"/>ly do it, and answer all the Conveniencies the best Banks can pretend to; for the Bills that thus come to the <hi>Exchequer</hi> to be paid in hard Money, with Three <hi>per Cent.</hi> Interest, are as good as Bank Bills, at Three and the other at Six 'tis plain are full as good again, and will very soon so be esteemed.</p>
+            <p>The Form of the Bills, and how the Truth of them is to be Tryed, the following Print does demonstrate.</p>
+            <closer>
+               <signed>Tho. Neale.</signed>
+               <dateline>Reprinted
+<date>
+                     <hi>Feb.</hi> 6th, 1695.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:207388:2"/>
+            <p>
+               <figure>
+                  <p>This Bill will be taken for one Hundred Pounds by the King in all Payments for Customs or Excise (and may also be tryed) in the Places writ about I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vntil the 29. of Septemb 1696 And at any time after that time the Bearer of It may vpon the delivering it vp, Receive three pounds al the Exchequer and One other such Bill of one Hundred Pounds for the Half year ensuing. &amp; so forward every Six Months ending at Lady day &amp; Michaelmas.</p>
+                  <p>Commissioner</p>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. London. Custom 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. London Excise. 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. London Transfer 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. London Exchequer. 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. London. Custom. 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. London Excise. 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. London Transfer. 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. London Exchequer. 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. Norwich Cus: &amp; Excise 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100 Colchester Cus &amp; Excise. 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100 Southamptō Cus: &amp; Excise 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100 Hull. Cus: &amp; Excise 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100 Norwich Cus: &amp; Excise 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100 Colchester Cus: &amp; Excise 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100 Southamptō Cus: &amp; Excise 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100 Hull. Cus: &amp; Excise 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. Chester Cust: &amp; Excise 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100 Shrewsbury Cus: &amp; Excise 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. Exeter Cus: &amp; Excise 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. Plymouth Cus: &amp; Excise 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. Chester Cus: &amp; Excise 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. Shrewsbury Cus &amp; Excise 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100 Exeter Cus &amp; Excise 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. Plymouth Cus &amp; Excise. 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. Bristoll. Cus: &amp; Exc: 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100 Yarmouth Cus: &amp; Exc: 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. Yorke. Cus. &amp; Excise 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. Newcastle Cus &amp; Excise. 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. Bristoll Cus: &amp; Excise 1695. N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100 Yarmouth Cus: &amp; Exc: 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. Yorke Cus: &amp; Excise 1695 N</p>
+                  </figure>
+                  <figure>
+                     <p>
+                        <abbr>lo</abbr> 100. Newcastle Cus: &amp; Excise 1695. N</p>
+                  </figure>
+               </figure>
+            </p>
+            <p>This Bill is to be cut Indentwise through the Several Knotts, or Flourishes, and each Knott or Flourish being Nombred (as the Bill will be) is to be Severally Pasted in a Book to be kept at each respective. Place mentioned above it; There to prove the Truth of Such Bill.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
